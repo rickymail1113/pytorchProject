@@ -7,3 +7,4 @@ git clone https://github.com/tzutalin/labelimg
 git clone https://github.com/ultralytics/yolov5
 cd .\yolov5\
 pip install -r .\requirements.txt
+python -m pip install msvc-runtime    
